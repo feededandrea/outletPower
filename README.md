@@ -1,0 +1,2 @@
+# outletPower
+outlet 2
